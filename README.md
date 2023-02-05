@@ -10,3 +10,6 @@
 
 # Unique Tools:
 Steonography - Digital Invisible Ink
+
+# Cryptography
+Substitution Ciphers
