@@ -2,6 +2,7 @@
    Collection of solutions and lessons learned from different CTFs
    Burpsuite
    NMap
+   Command Injection
    
    This is mainly from obsidian.
 # Pico CTF: 
