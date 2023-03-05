@@ -8,7 +8,7 @@ My [Certifications](https://github.com/BrennenT7/Complete-Networking-Cybersecuri
 
 
 
-Network Security/Administration
+Open Source Intelligence
 * Windows Administration
    * [Active Directory](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Windows%20Domain%20Controller%20and%20Client.pdf)
    * [Group Policy Objects for Security](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Group%20Policy%20Objects%20for%20User%20Security.pdf)
