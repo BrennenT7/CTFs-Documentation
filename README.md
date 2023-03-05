@@ -56,3 +56,7 @@ Wireless Access Exploitation <br />
 Forensics
 
 Scanning
+
+Web Application Exploitation
+
+Enumaration & Exploitation
