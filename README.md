@@ -1,7 +1,7 @@
-# Complete-Cisco-Networking/Cybersecurity-Portfolio
+# NCL 2023 Resource V1
 
-Guides and Configurations for Cisco, Networking and Cybersecurity related Projects. <br />
-The Word documents for these Labs are in the repository and are a bit easier to navigate with tables of contents and hyperlinks, however PDF will work fine. <br />
+Guides and resources for NCL CTFs by Lun3r <br />
+The Word documents for each section are linked with requisite helpful commands/websites. <br />
 
 My [Certifications](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Certifications_.pdf)
 * [Complete Portfolio in one file](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
