@@ -42,7 +42,7 @@ Log Analysis
    * HSRP <br />
 
 Network Traffic Analysis
-  * Wireless Access Points (WIP) <br />
+  * Pandora (Hard) (WIP) <br />
   * Wireless Lan Controller (WIP)
   
 Wireless Access Exploitation <br />
