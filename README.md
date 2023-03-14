@@ -30,16 +30,7 @@ Password Cracking
    
 Log Analysis
   * BGP
-    * [eBGP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20eBGP%20Redistribution.pdf)
-    * [iBGP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20iBGP%20Routing.pdf)
-  * OSPF
-    * [Single-Area](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20Single-Area%20OSPF.pdf)
-    * [Multi-Area](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20Multi-Area%20OSPF.pdf)
-  * EIGRP
-    * [EIGRP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20EIGRP.pdf)
-  * VRF Lite
-    * [VRF](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/VRF%20Lite.pdf) <br />
-   * HSRP <br />
+  
 
 Network Traffic Analysis
   * Pandora (Hard) (WIP) <br />
