@@ -3,9 +3,6 @@
 Guides and resources for NCL CTFs by Lun3r <br />
 The Word documents for each section are linked with requisite helpful commands/websites. <br />
 
-My [Certifications](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Certifications_.pdf)
-* [Complete Portfolio in one file](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
-
 
 
 Open Source Intelligence
